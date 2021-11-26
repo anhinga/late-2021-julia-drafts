@@ -4,7 +4,7 @@ In that framework we found that it is fruitful to interpret monochrome images as
 
 A number of people are saying that it would be nice to start exploring color motifs in this context.
 
-The simplest way (`nov-23-exploration.ipynb` notebook) is to decompose the image into red, green, and blue channels,
+The simplest way (`nov-23-exploration.ipynb` notebook, Julia 1.6.4, packages updated on Nov.23) is to decompose the image into red, green, and blue channels,
 do matrix multiplication of the resulting matrices in each channel, and then join the result together
 for a color image.
 
