@@ -16,5 +16,15 @@ When we normalize columns of the right matrix and rows of the left matrix:
 
 ![color_motif_1_normalized](color_motif_1_normalized.png)
 
+---
+
 A follow-up exploration (`nov-27-exploration.ipynb` notebook which has a much better code, functional and generally nice,
 unlike the Nov 23 experiment).
+
+Straight multiplication:
+
+![jetplane-by-mandrill](jetplane-by-mandrill.png)
+
+When we normalize columns of the right matrix and rows of the left matrix (cross-normalization):
+
+![jetplane-by-mandrill-crossnormed](jetplane-by-mandrill-crossnormed.png)
