@@ -3,3 +3,7 @@
 Julia notes and code drafts starting from November 2021
 
 A new reporistory in the spirit of https://github.com/anhinga/2020-julia-drafts
+
+---
+
+`color-motifs` - color versions in the spirit of https://github.com/anhinga/JuliaCon2021-poster
